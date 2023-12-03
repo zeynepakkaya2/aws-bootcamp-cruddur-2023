@@ -20,7 +20,7 @@ I installed it on GitPod environment so I used instructions for Linux x86.
 
 `sudo ./aws/install`
 
-![](https://github.com/zeynepakkaya2/aws-bootcamp-cruddur-2023/blob/main/journal/assets/aws-cli.png)
+![AWS CLI](https://github.com/zeynepakkaya2/aws-bootcamp-cruddur-2023/blob/main/journal/assets/aws-cli.png)
 
 I updated `.gitpod.yml`:
 
