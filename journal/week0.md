@@ -44,3 +44,14 @@ tasks:
 ---
 
 ## Budget
+
+I created a budget with:
+
+```
+aws budgets create-budget \
+    --account-id ***REMOVED*** \
+    --budget file://aws/json/budget.json \
+    --notifications-with-subscribers file://aws/json/notifications-with-subscribers.json
+```
+
+![My AWS budgets](https://github.com/zeynepakkaya2/aws-bootcamp-cruddur-2023/blob/main/journal/assets/budget.png)
